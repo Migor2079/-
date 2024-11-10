@@ -1,0 +1,15 @@
+мой_репозиторий
+│
+├── images/
+│   └── (здесь хранятся изображения)
+│
+├── pages/
+│   ├── summary.html
+│   ├── portfolio.html
+│   ├── contacts.html
+│
+├── css/
+│   └── styles.css
+│
+└── fonts/
+    └── (здесь хранятся шрифты)
